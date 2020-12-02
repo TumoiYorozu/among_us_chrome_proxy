@@ -3,6 +3,12 @@
 また，追加機能として，同じローカルネットワーク内にもパケットを送信して，スマートフォンからもゲームに参加することができます．
 これは本家には無い機能です．
 
+# Chrome への登録方法
+(Releases)[https://github.com/TumoiYorozu/among_us_chrome_proxy/releases] から最新の`among_us_chrome_proxy.zip` をダウンロード，解凍してください．
+
+Chrome の (拡張機能ページ)[chrome://extensions/] を開き，右上のの「デベロッパー モード」を有効にして，「パッケージ化されていない拡張機能を読み込む」から解凍したフォルダを選択してください．
+
+
 # 使い方(ゲスト)
 ホストから，接続に必要なaddressを教えてもらってください．
 "Host Address" にそのURLを入力して，"Connect"ボタンを押すと，あなたのPCから遠く離れたホストのAmong Usのローカル部屋に接続することが出来ます．

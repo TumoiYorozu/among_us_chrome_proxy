@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="../scripts/main.js"></script>
+    <!-- <script src="../scripts/main.js"></script> -->
+</head>
+<body>
+</body>
+<h2>Among Us Local Play Proxy</h2>
+
+<div style="padding: 5px; margin-bottom: 5px; border: 1px solid #333333;">
+<h2>Guest</h2>
+
+<label for="server_address">Host Address :</label>
+<input type="text" id="host_address" size="20">
+
+<p><label for="bc">Where to play the game on the device?</label></p>
+<p><input type="radio" name="bc" id="bc_local" value="local" checked/> This Computer</p>
+<p><input type="radio" name="bc" id="bc_LAN" value="LAN"/> LAN (for Smart Phones)</p>
+
+<input type="button" id="guest_connect" value="Connect">
+</div>
+Status:
+<div id="status">not connect</div>
+
+</html>

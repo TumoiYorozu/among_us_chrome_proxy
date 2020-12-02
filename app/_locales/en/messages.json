@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Among Us Local Play Proxy",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "amongus_prxy",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Instead of using the official server, which causes delays, you can play online with your friends through proxies for local play!",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "amongus proxy",
+    "description": "The title of the browser action button"
+  }
+}

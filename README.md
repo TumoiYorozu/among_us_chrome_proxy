@@ -4,9 +4,9 @@
 これは本家には無い機能です．
 
 # Chrome への登録方法
-(Releases)[https://github.com/TumoiYorozu/among_us_chrome_proxy/releases] から最新の`among_us_chrome_proxy.zip` をダウンロード，解凍してください．
+[Releases](https://github.com/TumoiYorozu/among_us_chrome_proxy/releases) から最新の`among_us_chrome_proxy.zip` をダウンロード，解凍してください．
 
-Chrome の (拡張機能ページ)[chrome://extensions/] を開き，右上のの「デベロッパー モード」を有効にして，「パッケージ化されていない拡張機能を読み込む」から解凍したフォルダを選択してください．
+Chrome の [拡張機能](chrome://extensions/) を開き，右上のの「デベロッパー モード」を有効にして，「パッケージ化されていない拡張機能を読み込む」から解凍したフォルダを選択してください．
 
 
 # 使い方(ゲスト)

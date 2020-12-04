@@ -30,6 +30,7 @@ Chrome の 拡張機能(chrome://extensions/) を開き，右上のの「デベ�
 
 
 # 使い方(Host)
+**ゲームをするメンバーの中で1人だけ行います．要求PCスキルは高めです**
 このアプリにはホスト機能が付いていないので，本家のamong-us-proxyを使用してください．
 例えば
 https://github.com/NickCis/among-us-proxy/tree/master/packages/among-us-proxy

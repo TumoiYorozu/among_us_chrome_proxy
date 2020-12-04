@@ -48,7 +48,16 @@ Firewall やルーターのポート転送設定を設定してください．
 「ws://123.45.67.89:1080」を友だちに教えてあげることにより，あなたのゲームに招くことが出来ます．
 
 
+# 投げ銭先
+Bitcoin : 3QZPMnkzsubp1SxYT7Z9rMpXRc6Z1jBj5x  
+PayPal : https://paypal.me/TumoiYorozu   
+複数のプロジェクトで同じ投げ銭先なので，コメントで「Amongus proxy を使ったよ」と書いてくれると嬉しいです．
 
+また，この アプリ を広めるいう『無償の支援』も歓迎しております．
+
+# ビルド方法
+node.js から js に変換します．  
+テンプレートをそのまま残しているだけなので未検証です．  
 
 # among_us_chrome_proxy
 

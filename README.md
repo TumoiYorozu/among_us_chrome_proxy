@@ -21,6 +21,7 @@ Chrome の 拡張機能(chrome://extensions/) を開き，右上のの「デベ�
 "Host Address" にそのURLを入力して，チェックボックスの「LAN」を選択してください．  
 これにより，あなたのパソコンがつながっているWiFi などのネットワーク経由で接続できる様になります．  
 
+### 注意
 スマートフォンから部屋は認識できるけど接続できない場合，PCのファイアウォールが邪魔をしている可能性があります．  
 その場合，PC の 22023番ポートのUDP 受信を許可してください．  
 - [Windows の場合のやり方](https://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=7510-8352)

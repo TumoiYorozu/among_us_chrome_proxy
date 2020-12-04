@@ -35,16 +35,21 @@ Chrome の 拡張機能(chrome://extensions/) を開き，右上のの「デベ�
 # 使い方(Host)
 **ゲームをするメンバーの中で1人だけ行います．要求PCスキルは高めです．ホスト以外の参加者は関係ないので読み飛ばしてください.**  
 
-このアプリにはホスト機能が付いていないので，本家のamong-us-proxyを使用してください．
-例えば
-https://github.com/NickCis/among-us-proxy/tree/master/packages/among-us-proxy
-をダウンロードして， nodejs をインストール，
-「npm install --production」でアプリを準備して
-「node src/main.js host --port 1080」と実行することによりゲストを招くことが出来ます．
-この場合，指定したポート(この例では1080番)に外部から接続できる必要があります．
-Firewall やルーターのポート転送設定を設定してください．
+このアプリにはホスト機能が付いていないので，本家のamong-us-proxyを使用してください． 
+例えば  
+https://github.com/NickCis/among-us-proxy  
+を[ダウンロード](https://github.com/NickCis/among-us-proxy/archive/master.zip) します．  
 
-あなたのコンピューターのグローバルIP addressが 123.45.67.89 の場合，
+実行コードは [./packages/among-us-proxy/](https://github.com/NickCis/among-us-proxy/tree/master/packages/among-us-proxy) を使います．
+
+次に実行環境である [nodejs をダウンロード](https://nodejs.org/ja/download/) してインストールしてください．  
+ターミナル(コマンドプロンプト)でダウンロードした among-us-proxy の下の packages/among-us-proxy/ を開きます．  
+そこで「npm install --production」でアプリの実行に必要なファイルを準備します．  
+最後に「node src/main.js host --port 1080」と実行することによりゲストを招くことが出来ます．  
+この場合，指定したポート(この例では1080番)に外部から接続できる必要があります．  
+Firewall やルーターのポート転送設定を設定してください．  
+
+あなたのコンピューターのグローバルIP addressが 123.45.67.89 の場合，  
 「ws://123.45.67.89:1080」を友だちに教えてあげることにより，あなたのゲームに招くことが出来ます．
 
 

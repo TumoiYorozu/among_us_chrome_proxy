@@ -6,6 +6,8 @@ among us の公式サーバーが重すぎなので，ローカル通信を離�
 また，追加機能として，同じローカルネットワーク内にもパケットを送信して，スマートフォンからもゲームに参加することができます．  
 これは本家には無い機能です．  
 
+良ければ GitHub の Star をお願いします．
+
 # Chrome への登録方法
 [Releases](https://github.com/TumoiYorozu/among_us_chrome_proxy/releases) から最新の`among_us_chrome_proxy.zip` をダウンロード，解凍してください．
 

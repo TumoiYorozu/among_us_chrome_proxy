@@ -13,7 +13,7 @@ among us の公式サーバーが重すぎなので，ローカル通信を離�
 
 Chrome の 拡張機能(chrome://extensions/) を開き，右上のの「デベロッパー モード」を有効にして，「パッケージ化されていない拡張機能を読み込む」から解凍したフォルダを選択してください．
 
-これでChromeのアプリ(chrome://apps/)に登録されるので，among_us_chrome_proxy を起動してください．
+これでChromeのアプリ(chrome://apps/)に登録されるので，among_us_chrome_proxy を起動してください．(Windows の場合はスタートメニューにも登録されます)
 
 # 使い方(ゲスト)
 ホストから，接続に必要なaddressを教えてもらってください．  
